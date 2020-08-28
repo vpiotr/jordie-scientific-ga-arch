@@ -3,13 +3,13 @@ Software archive for scientific computing libraries.
 
 # DISCLAIMER 
 This is just a code dump, this software is not supposed to be in a working state and is provided as-is.
-Some parts of the original software have been ommited - if you want to use it, you need to remove references to missing parts or use your own implementation instead.
+Some parts of the original software have been omitted - if you want to use it, you need to remove references to missing parts or use your own implementation instead.
 See LICENSE.txt for further details.
 
 # Library index
 
 ## Scientific - genetic algorithms
-ga           - genetic algorithm library
+* ga           - genetic algorithm library
 
 # Current software state
 Source codes are compatible with C++98 and designed to work with Win32 platform (VS).
