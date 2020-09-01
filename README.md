@@ -1,5 +1,5 @@
 # Overview
-Software archive for scientific computing libraries.
+Software archive for genetic algorithm libraries.
 
 # DISCLAIMER 
 This is just a code dump, this software is not supposed to be in a working state and is provided as-is.
